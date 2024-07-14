@@ -1,4 +1,4 @@
-This is the Lean-In 5.0 Hackathon project created by Team O(1) Coders; consisting of Dipen Kalsi and Raghav Agarwal from MAIT, Delhi and Ayushi Gupta and Shreya Jha from IGDTUW, Delhi.
+This is the Lean-In 5.0 Hackathon project.
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
